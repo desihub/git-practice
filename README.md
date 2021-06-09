@@ -1,2 +1,2 @@
 # git-practice
-Sandbox repo for practicing git pull requests, etc.
+Sandbox repo for practicing git workflows on desi-hub. 
